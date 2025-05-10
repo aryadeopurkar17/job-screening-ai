@@ -34,8 +34,6 @@ User Interface (Tkinter)
 ├── Matching Agent → Skill matching using ML techniques
 └── Interview Scheduler → Email automation
 
-bash
-Copy code
 
 ## 💻 How to Run
 
@@ -51,7 +49,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 3.**Install dependencies**
 bash
-Copy code
 pip install -r requirements.txt
 
 **4.Run the application**
@@ -70,6 +67,8 @@ job-screening-ai/
 └── README.md
 
 **🚀 Impact**
-⏱️ 80% reduction in manual screening time
-🎯 Improved accuracy in candidate-job matching
-🤖 Scalable and deployment-ready AI solution
+⏱️ 80% reduction in manual screening time.
+
+🎯 Improved accuracy in candidate-job matching.
+
+🤖 Scalable and deployment-ready AI solution.
